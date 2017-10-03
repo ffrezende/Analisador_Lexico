@@ -1,0 +1,12 @@
+﻿program
+ int a, b; c;
+ string print
+ do
+ // Comentario
+ if ((a>0))
+ 	print("teste")
+ else
+ 	scan(a);
+ while true
+ 	print(b)
+ end
